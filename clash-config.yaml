@@ -49,7 +49,7 @@ proxies:
   - {"name":"aws-us-west-2-1","type":"ss","server":"52.33.228.221","port":56001,"cipher":"chacha20-ietf-poly1305","password":"1234qwer","udp":true}
   - {"name":"aws-us-west-2-2","type":"ss","server":"54.149.41.119","port":56001,"cipher":"chacha20-ietf-poly1305","password":"1234qwer","udp":true}
   - {"name":"aws-us-east-2-1","type":"ss","server":"18.119.23.219","port":56001,"cipher":"chacha20-ietf-poly1305","password":"1234qwer","udp":true}
-  - {"name":"localhost-socks5","type":"socks5","server":"localhost","port":56001}
+  - {"name":"localhost-socks5-56001","type":"socks5","server":"localhost","port":56001}
 
 proxy-groups:
 -
@@ -59,7 +59,7 @@ proxy-groups:
     - 'aws-us-west-2-1'
     - 'aws-us-west-2-2'
     - 'aws-us-east-2-1'
-    - 'localhost-socks5'
+    - 'localhost-socks5-56001'
     - 直接连接
 -
   name: 其他流量
