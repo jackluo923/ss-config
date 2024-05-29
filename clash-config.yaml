@@ -1,6 +1,6 @@
 #---------------------------------------------------#
 ## 更新：2024-05-11 11:47:51
-## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
+## 感谢：https://github.com/Hackhttps://github.com/jackluo923/ss-config/blob/main/clash-config.yamll0us/SS-Rule-Snippet
 ## 链接：https://9cf462e6d43c-apiv1.v27qae.com/flydsubal/szt5jaoh8f24aoag?clash=1
 #---------------------------------------------------#
 
@@ -46,7 +46,7 @@ dns:
 
 
 proxies:
-  - {"name":"aws-us-west-2-1","type":"ss","server":"34.216.169.12","port":56001,"cipher":"chacha20-ietf-poly1305","password":"1234qwer","udp":true}
+  - {"name":"aws-us-west-2-1","type":"ss","server":"44.226.25.48","port":56001,"cipher":"chacha20-ietf-poly1305","password":"1234qwer","udp":true}
   - {"name":"aws-us-west-2-2","type":"ss","server":"44.227.56.180","port":56001,"cipher":"chacha20-ietf-poly1305","password":"1234qwer","udp":true}
   - {"name":"aws-us-east-2-1","type":"ss","server":"18.119.23.219","port":56001,"cipher":"chacha20-ietf-poly1305","password":"1234qwer","udp":true}
   - {"name":"localhost-socks5-56001","type":"socks5","server":"localhost","port":56001}
