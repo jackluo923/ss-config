@@ -58,6 +58,7 @@ proxy-groups:
     - 'aws-us-west-2-2'
     - 直接连接
   interval: 300   # Perform test every 300s
+  url: www.google.ca
 -
   name: 其他流量
   type: select
