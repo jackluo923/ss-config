@@ -51,7 +51,7 @@ proxies:
 
 proxy-groups:
 -
-  name: ♻️ 国外流量
+  name: 国外流量
   type: url-test
   url: http://www.google.com/generate_204
   interval: 300
