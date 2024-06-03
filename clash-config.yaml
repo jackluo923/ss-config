@@ -59,7 +59,6 @@ proxy-groups:
   proxies:
     - 'aws-us-west-2-1'
     - 'aws-us-west-2-2'
-    - 直接连接
 -
   name: 其他流量
   type: select
