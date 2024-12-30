@@ -46,8 +46,8 @@ dns:
 
 
 proxies:
-  - {"name":"aws-us-west-2-1","type":"ss","server":"54.218.179.26","port":56001,"cipher":"chacha20-ietf-poly1305","password":"1234qwer","udp":true}
-  - {"name":"aws-us-west-2-2","type":"ss","server":"54.71.52.24","port":56001,"cipher":"chacha20-ietf-poly1305","password":"1234qwer","udp":true}
+  - {"name":"aws-us-west-2-1","type":"ss","server":"35.93.178.201","port":56001,"cipher":"chacha20-ietf-poly1305","password":"1234qwer","udp":true}
+  - {"name":"aws-us-west-2-2","type":"ss","server":"35.163.51.217","port":56001,"cipher":"chacha20-ietf-poly1305","password":"1234qwer","udp":true}
 
 proxy-groups:
 -
